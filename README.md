@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/bhanu-vtu29722/Leetcode/tree/master/0410-split-array-largest-sum) |
+| [1903-largest-odd-number-in-string](https://github.com/bhanu-vtu29722/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -86,11 +87,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/bhanu-vtu29722/Leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [1903-largest-odd-number-in-string](https://github.com/bhanu-vtu29722/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 ## Math
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/bhanu-vtu29722/Leetcode/tree/master/0029-divide-two-integers) |
 | [0231-power-of-two](https://github.com/bhanu-vtu29722/Leetcode/tree/master/0231-power-of-two) |
+| [1903-largest-odd-number-in-string](https://github.com/bhanu-vtu29722/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 ## Bit Manipulation
 |  |
 | ------- |

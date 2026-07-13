@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/bhanu-vtu29722/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0014-longest-common-prefix](https://github.com/bhanu-vtu29722/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0074-search-a-2d-matrix](https://github.com/bhanu-vtu29722/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/bhanu-vtu29722/Leetcode/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/bhanu-vtu29722/Leetcode/tree/master/0136-single-number) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/bhanu-vtu29722/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0151-reverse-words-in-a-string](https://github.com/bhanu-vtu29722/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [1903-largest-odd-number-in-string](https://github.com/bhanu-vtu29722/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 ## Math
@@ -110,4 +112,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/bhanu-vtu29722/Leetcode/tree/master/0078-subsets) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/bhanu-vtu29722/Leetcode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->

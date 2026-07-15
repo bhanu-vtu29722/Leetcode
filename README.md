@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/bhanu-vtu29722/Leetcode/tree/master/0029-divide-two-integers) |
 | [0231-power-of-two](https://github.com/bhanu-vtu29722/Leetcode/tree/master/0231-power-of-two) |
 | [1903-largest-odd-number-in-string](https://github.com/bhanu-vtu29722/Leetcode/tree/master/1903-largest-odd-number-in-string) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/bhanu-vtu29722/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -119,4 +120,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/bhanu-vtu29722/Leetcode/tree/master/0014-longest-common-prefix) |
+## Number Theory
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/bhanu-vtu29722/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
